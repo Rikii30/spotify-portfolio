@@ -35,7 +35,7 @@ const works: IWork[] =
     title: 'AI Based Face Recognition Attendance System',
     technologies: ['Javascript', ' HTML', 'Bootstarp','CSS','AI models','Data Analysis'],
     screenshots: [
-      '/assets/screenshots/portfolio/ai.png'
+      '/assets/screenshots/portfolio/ai.png',
       '../public/assets/riki.jpg',
     ],
     place: 'University Project',
