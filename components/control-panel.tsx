@@ -25,7 +25,7 @@ const ControlPanel = () => {
   return (
     <div className="flex items-center">
       <div className="md:ml-7">
-        <a href="Spotify_Resume_Rikshitha.pdf" target="_blank" rel="noreferrer">
+        <a href="spotify-portfolio/public/assets/Spotify_Resume_Rikshitha.pdf" target="_blank" rel="noreferrer">
           <Button>Resume</Button>
         </a>
       </div>
