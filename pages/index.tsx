@@ -71,8 +71,8 @@ const Home: NextPage = () => {
                 </div>
 
                 <div className="mt-5 mb-8 text-base md:text-lg">
-                Enthusiastic MS Graduate with a solid foundation in Computer Science and a lifelong passion for coding and technology.
-Motivated to continuously explore and expand knowledge within the IT and computer science domains.
+              Upcoming MS Graduate with a solid foundation in Computer Science and a lifelong passion for coding and technology.
+Motivated to continuously explore and expand knowledge within the IT and computer science domains :)
                 </div>
 
                 <Link href="/profile" passHref>
