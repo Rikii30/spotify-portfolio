@@ -7,9 +7,9 @@ const works: IWork[] =
     title: 'Hawaii Travel Destination Website',
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
-      './public/assets/screenshots/ng-components/travel.png',
-      '/assets/screenshots/ng-components/maps.png',
-      '/assets/screenshots/ng-components/contact.png',
+      './assets/screenshots/ng-components/travel.png',
+      '../assets/screenshots/ng-components/maps.png',
+      '../assets/screenshots/ng-components/contact.png',
     ],
     place: 'University Project',
     url: 'https://rikii30.github.io/traveldest/',
