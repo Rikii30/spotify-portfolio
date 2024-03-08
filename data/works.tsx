@@ -21,9 +21,9 @@ const works: IWork[] =
     title: 'Spmphony Spot Music Website',
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
-      './assets/screenshots/burberry/music1.png',
-      './assets/screenshots/burberry/music2.png',
-      './assets/screenshots/burberry/music3.png',
+      '../assets/screenshots/burberry/music1.png',
+      '../assets/screenshots/burberry/music2.png',
+      '../assets/screenshots/burberry/music3.png',
     ],
     place: 'University Project',
     url: 'https://rikii30.github.io/project-1/home.html',
@@ -35,7 +35,7 @@ const works: IWork[] =
     title: 'AI Based Face Recognition Attendance System',
     technologies: ['Javascript', ' HTML', 'Bootstarp','CSS','AI models','Data Analysis'],
     screenshots: [
-      './assets/screenshots/portfolio/ai.png',
+      '../assets/screenshots/portfolio/ai.png',
       '../public/assets/riki.jpg',
     ],
     place: 'University Project',
@@ -48,7 +48,7 @@ const works: IWork[] =
     id: 'Disease-Prediction',
     title: 'ML Based Disease Prediction And Drug Recommendation',
     technologies: ['JavaScript', 'React', 'HTML5', 'Typescript','CSS', 'Sublime Text Editor','Data Analysis','Ai models'],
-    screenshots: ['./assets/screenshots/react-components/mlhealth.png'],
+    screenshots: ['../assets/screenshots/react-components/mlhealth.png'],
     place: 'University Project',
     url: 'https://docs.google.com/presentation/d/1Qlu_oDIMIJODss285DINmBD6kpxrwlpGMM0xt3zV-4g/edit',
     
@@ -60,8 +60,8 @@ const works: IWork[] =
     title: 'Portfolio 1',
     technologies: ['React', 'Node.js', 'JavaScript', 'CSS', 'HTML5','Bootstrap','Github'],
     screenshots: [
-      './assets/screenshots/game-center/portfolio1.png',
-      './assets/screenshots/game-center/portfolio2.png',
+      '../assets/screenshots/game-center/portfolio1.png',
+      '../assets/screenshots/game-center/portfolio2.png',
     ],
     place: 'Personal Project',
     url: 'https://rikii30.github.io/project3/',
@@ -74,9 +74,9 @@ const works: IWork[] =
     title: 'Portfolio 2',
     technologies: ['React', 'Node.js', 'JavaScript', 'CSS', 'HTML5','Bootstrap','Github'],
     screenshots: [
-      './assets/screenshots/eskin-travel/port1.png',
-      './assets/screenshots/eskin-travel/port2.png',
-      './assets/screenshots/eskin-travel/port3.png',
+      '../assets/screenshots/eskin-travel/port1.png',
+      '../assets/screenshots/eskin-travel/port2.png',
+      '../assets/screenshots/eskin-travel/port3.png',
     ],
     place: 'Personal Project',
     url: 'https://rikii30.github.io/portfolio5/',
@@ -87,7 +87,7 @@ const works: IWork[] =
     id: 'Data-Visualization',
     title: 'Data Visualization of a sports company',
     technologies: ['Jupyter', 'Data Analysis', 'Power Bi', 'MySQL'],
-    screenshots: ['./assets/screenshots/green/bi.png'],
+    screenshots: ['../assets/screenshots/green/bi.png'],
     place: 'Personal Project',
     url: 'https://docs.google.com/document/d/16Bl1TBk3kDGvqbnQBW_JRPFvkgxhO8cu-p1cvJWvqIY/edit?usp=sharing',
 
