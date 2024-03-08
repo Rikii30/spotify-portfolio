@@ -8,7 +8,6 @@ const works: IWork[] =
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
       '/assets/screenshots/ng-components/travel.png',
-      '/assets/screenshots/ng-components/travel.png',
       '/assets/screenshots/ng-components/maps.png',
       '/assets/screenshots/ng-components/contact.png',
     ],
@@ -22,9 +21,9 @@ const works: IWork[] =
     title: 'Spmphony Spot Music Website',
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
-      '../assets/screenshots/burberry/music1.png',
-      '../assets/screenshots/burberry/music2.png',
-      '../assets/screenshots/burberry/music3.png',
+      '/assets/screenshots/burberry/music1.png',
+      '/assets/screenshots/burberry/music2.png',
+      '/assets/screenshots/burberry/music3.png',
     ],
     place: 'University Project',
     url: 'https://rikii30.github.io/project-1/home.html',
