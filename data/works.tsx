@@ -8,9 +8,9 @@ const works: IWork[] =
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
       '/assets/screenshots/ng-components/travel.png',
-      '../assets/screenshots/ng-components/travel.png',
-      '../assets/screenshots/ng-components/maps.png',
-      '../assets/screenshots/ng-components/contact.png',
+      '/assets/screenshots/ng-components/travel.png',
+      '/assets/screenshots/ng-components/maps.png',
+      '/assets/screenshots/ng-components/contact.png',
     ],
     place: 'University Project',
     url: 'https://rikii30.github.io/traveldest/',
