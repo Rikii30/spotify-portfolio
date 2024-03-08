@@ -36,7 +36,6 @@ const works: IWork[] =
     technologies: ['Javascript', ' HTML', 'Bootstarp','CSS','AI models','Data Analysis'],
     screenshots: [
       '../assets/screenshots/portfolio/ai.png',
-      '../public/assets/riki.jpg',
     ],
     place: 'University Project',
     url: 'https://sjkayle.vercel.app',
