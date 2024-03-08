@@ -7,7 +7,7 @@ const works: IWork[] =
     title: 'Hawaii Travel Destination Website',
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
-      '/assets/screenshots/ng-components/travel.png',
+      './public/assets/screenshots/ng-components/travel.png',
       '/assets/screenshots/ng-components/maps.png',
       '/assets/screenshots/ng-components/contact.png',
     ],
