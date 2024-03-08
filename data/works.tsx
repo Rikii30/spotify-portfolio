@@ -7,9 +7,9 @@ const works: IWork[] =
     title: 'Hawaii Travel Destination Website',
     technologies: ['HTML5', 'CSS', '  JavaScript', 'NodeJs','React'],
     screenshots: [
-      './assets/screenshots/ng-components/travel.png',
-      './assets/screenshots/ng-components/maps.png',
-      './assets/screenshots/ng-components/contact.png',
+      '../assets/screenshots/ng-components/travel.png',
+      '../assets/screenshots/ng-components/maps.png',
+      '../assets/screenshots/ng-components/contact.png',
     ],
     place: 'University Project',
     url: 'https://rikii30.github.io/traveldest/',
@@ -48,7 +48,7 @@ const works: IWork[] =
     id: 'Disease-Prediction',
     title: 'ML Based Disease Prediction And Drug Recommendation',
     technologies: ['JavaScript', 'React', 'HTML5', 'Typescript','CSS', 'Sublime Text Editor','Data Analysis','Ai models'],
-    screenshots: ['/assets/screenshots/react-components/mlhealth.png'],
+    screenshots: ['./assets/screenshots/react-components/mlhealth.png'],
     place: 'University Project',
     url: 'https://docs.google.com/presentation/d/1Qlu_oDIMIJODss285DINmBD6kpxrwlpGMM0xt3zV-4g/edit',
     
@@ -87,7 +87,7 @@ const works: IWork[] =
     id: 'Data-Visualization',
     title: 'Data Visualization of a sports company',
     technologies: ['Jupyter', 'Data Analysis', 'Power Bi', 'MySQL'],
-    screenshots: ['/assets/screenshots/green/bi.png'],
+    screenshots: ['./assets/screenshots/green/bi.png'],
     place: 'Personal Project',
     url: 'https://docs.google.com/document/d/16Bl1TBk3kDGvqbnQBW_JRPFvkgxhO8cu-p1cvJWvqIY/edit?usp=sharing',
 
