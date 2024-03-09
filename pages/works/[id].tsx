@@ -49,7 +49,7 @@ const Work: NextPage<WorkProps> = ({ work }) => {
           <SectionTitle title="Some screenshots" />
           <div
             className={`grid grid-cols-2 grid-rows-${
-              work.screenshots.length === 1 ? '1' : '3'
+              work.screenshots.length === 1 ? '2' : '3'
             } gap-4 md:gap-6 xl:w-3/4`}
           >
             {work.screenshots.length === 1 && (
