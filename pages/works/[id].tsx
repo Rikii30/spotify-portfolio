@@ -49,14 +49,14 @@ const Work: NextPage<WorkProps> = ({ work }) => {
           <SectionTitle title="Some screenshots" />
           <div
             className={`grid grid-cols-2 grid-rows-${
-              work.screenshots.length === 1 ? '1' : '3'
+              work.screenshots.length === 2 ? '2' : '3'
             } gap-4 md:gap-6 xl:w-3/4`}
           >
-            {work.screenshots.length === 1 && (
+            {work.screenshots.length === 2 && (
               <div className={`h-96 col-span-2 ${screenshotClasses}`}>
                 <Image
                   src={work.screenshots[0]}
-                  alt="screenshot-1"
+                  alt="screenshot-2"
                   layout="fill"
                   objectFit="cover"
                   objectPosition="top"
@@ -66,7 +66,7 @@ const Work: NextPage<WorkProps> = ({ work }) => {
                 <div className="hidden md:block bg-purple transition duration-500 absolute inset-0 bg-opacity-50 backdrop-filter backdrop-grayscale hover:backdrop-grayscale-0 hover:bg-opacity-0 focus:backdrop-grayscale-0 focus:bg-opacity-0"></div>
               </div>
             )}
-            {work.screenshots.length > 1 &&
+            {work.screenshots.length > 2 &&
               work.screenshots.map((screenshot: string, i: number) => (
                 <div
                   key={i}
