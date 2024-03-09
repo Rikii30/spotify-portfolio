@@ -34,7 +34,7 @@ const Hero = () => {
       <div
         className="bg-cover h-96 bg-right bg-fixed flex flex-col justify-end p-4 md:p-7 text-white"
         style={{
-          backgroundImage: 'url("/assets/spotify1.png")',
+          backgroundImage: 'url("../assets/spotify1.png")',
         }}
       >
         <div className="z-10">
